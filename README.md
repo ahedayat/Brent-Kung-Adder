@@ -2,7 +2,7 @@
 
 ## Adder Schematic:
 
-<img src="./images/adderschematic.png" alt="Brent-Kung Adder Schematic"/>
+<img src="./images/AdderSchematic.png" alt="Brent-Kung Adder Schematic"/>
 <em>* "A LOW-POWER METHODOLOGY FOR CONFIGURABLE WIDE KOGGE-STONE ADDERS", Z. Moudallal, et al. </em>
 
 ## Group PG Logic:
